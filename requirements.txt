@@ -5,4 +5,3 @@ python-dotenv
 openai>=1.0.0
 streamlit
 requests
-st-audiorec
