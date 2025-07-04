@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pymongo
+python-dotenv
+openai>=1.0.0
+streamlit
+requests
+st-audiorec
