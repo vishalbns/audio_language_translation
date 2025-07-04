@@ -3,7 +3,7 @@ import requests
 import uuid
 from st_audiorec import st_audiorec
 
-BACKEND_URL = "http://localhost:8000"
+BACKEND_URL = "https://audio-language-translation.onrender.com"
 SEND_AUDIO_ENDPOINT = f"{BACKEND_URL}/send-audio/"
 GET_PREV_ENDPOINT = f"{BACKEND_URL}/get-translations/"
 
